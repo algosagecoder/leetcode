@@ -13,6 +13,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/algosagecoder/leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0146-lru-cache](https://github.com/algosagecoder/leetcode/tree/main/0146-lru-cache/) | Medium |
 | [0387-first-unique-character-in-a-string](https://github.com/algosagecoder/leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/algosagecoder/leetcode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 ## String
@@ -46,4 +47,16 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/algosagecoder/leetcode/tree/main/0451-sort-characters-by-frequency/) | Medium |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0146-lru-cache](https://github.com/algosagecoder/leetcode/tree/main/0146-lru-cache/) | Medium |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0146-lru-cache](https://github.com/algosagecoder/leetcode/tree/main/0146-lru-cache/) | Medium |
+## Doubly-Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0146-lru-cache](https://github.com/algosagecoder/leetcode/tree/main/0146-lru-cache/) | Medium |
 <!---LeetCode Topics End-->
